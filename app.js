@@ -1,1 +1,1 @@
-var app = angular.module('soundCloud-api', ['ngRoute']);
+var app = angular.module('sounder', ['ngRoute']);
